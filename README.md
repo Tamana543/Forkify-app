@@ -9,3 +9,5 @@ A real word project for practicing javascript.
 #### Bookmark A Recipe
 
 #### Adding Your Own Recipe
+
+There are some surprises too 😉, Open the code in your code editor and FIND THEM
