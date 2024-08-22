@@ -17,7 +17,7 @@ export default class View {
     const newMorkup = this._generateMarkup();
 
     const newDom = document.createRange().createContextualFragment(newMorkup);
-    const currentEl = Array.from(this._parentEl.querySelectorAll('*')); // Any BUG check here
+    const currentEl = Array.from(this._parentEl.querySelectorAll('*'));
     const newELement = Array.from(newDom.querySelectorAll('*'));
 
     newELement.forEach((newEl, i) => {
