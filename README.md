@@ -122,13 +122,15 @@ This project is for **educational purposes**.
 
 ---
 
+
 ## 👤 Author
 
-**Tamana**  
+**Tamana\<ReginaJS/\>**  
 Front-End Developer | JavaScript Enthusiast
 
 ---
 
 If you like this project, feel free to ⭐ the repository.
+
 
 
